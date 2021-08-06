@@ -8,4 +8,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter--
+
+
+
+while(alive){
+  eat();
+  sleep();
+  code();
+  repeat();
+}
 -->
