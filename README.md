@@ -1,11 +1,11 @@
 ### Hi there 👋 , Iam Veeraswamy Linagal  💻!
 
-<center>while(alive){<br />
-  eat();<br />
-  sleep();<br />
-  code();<br />
-  repeat();<br />
-}</center>
+while(alive){\
+  eat();\
+  sleep();\
+  code();\
+  repeat();\
+}
 
 
 
