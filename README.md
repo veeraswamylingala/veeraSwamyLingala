@@ -1,5 +1,12 @@
 ### Hi there 👋 , Iam Veeraswamy Linagal  💻!
 
+while(alive){
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+
 
 
 <!--
@@ -11,10 +18,5 @@ Here are some ideas to get you started:
 
 
 
-while(alive){
-  eat();
-  sleep();
-  code();
-  repeat();
-}
+
 -->
